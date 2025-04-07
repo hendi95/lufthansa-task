@@ -146,12 +146,12 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 1253,-23.5446871,-46.67914692,sao paulo,SP
 1254,-23.54253108,-46.68191419,sao paulo,SP
 1255,-23.54631329,-46.68140007,sao paulo,SP
-1256,-23.54815432,-46.6827287,s„o paulo,SP
+1256,-23.54815432,-46.6827287,s√£o paulo,SP
 1257,-23.5436142,-46.68766585,sao paulo,SP
 1258,-23.544731,-46.68676937,sao paulo,SP
 1259,-23.54150682,-46.68516401,sao paulo,SP
 1262,-23.55085639,-46.67735185,sao paulo,SP
-1290,-23.54096134,-46.6577487,s„o paulo,SP
+1290,-23.54096134,-46.6577487,s√£o paulo,SP
 1301,-23.54892611,-46.65182115,sao paulo,SP
 1302,-23.54780286,-46.64783925,sao paulo,SP
 1303,-23.54919072,-46.64818241,sao paulo,SP
@@ -716,7 +716,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 2650,-23.46200342,-46.65631959,sao paulo,SP
 2651,-23.46077746,-46.6586661,sao paulo,SP
 2652,-23.45729724,-46.65683202,sao paulo,SP
-2653,-23.45343176,-46.65837495,s„o paulo,SP
+2653,-23.45343176,-46.65837495,s√£o paulo,SP
 2670,-23.46640552,-46.66478385,sao paulo,SP
 2671,-23.46806613,-46.66436133,sao paulo,SP
 2672,-23.46115646,-46.6659266,sao paulo,SP
@@ -907,7 +907,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 2985,-23.44152108,-46.71946826,sao paulo,SP
 2986,-23.43441802,-46.7146374,sao paulo,SP
 2987,-23.4297409,-46.71444119,sao paulo,SP
-2988,-23.60844355,-46.74037146,s„o paulo,SP
+2988,-23.60844355,-46.74037146,s√£o paulo,SP
 2989,-23.43276717,-46.72082833,sao paulo,SP
 2990,-23.43037561,-46.72737847,sao paulo,SP
 2991,-23.4357023,-46.72743954,sao paulo,SP
@@ -953,7 +953,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 3033,-23.52993694,-46.62411387,sao paulo,SP
 3034,-23.52249521,-46.61693905,sao paulo,SP
 3035,-23.52539316,-46.614221,sao paulo,SP
-3036,-23.51964923,-46.61859872,s„o paulo,SP
+3036,-23.51964923,-46.61859872,s√£o paulo,SP
 3040,-23.550246,-46.62253646,sao paulo,SP
 3041,-23.54949637,-46.61983619,sao paulo,SP
 3042,-23.54762494,-46.61936765,sao paulo,SP
@@ -1089,7 +1089,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 3191,-23.56990599,-46.57176444,sao paulo,SP
 3192,-23.57165986,-46.57823081,sao paulo,SP
 3193,-23.57375683,-46.57628443,sao paulo,SP
-3194,-23.56788989,-46.57394822,s„o paulo,SP
+3194,-23.56788989,-46.57394822,s√£o paulo,SP
 3195,-23.56913271,-46.58271279,sao paulo,SP
 3201,-23.59838357,-46.5743814,sao paulo,SP
 3202,-23.60200977,-46.57061071,sao paulo,SP
@@ -1115,7 +1115,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 3225,-23.58367393,-46.5559882,sao paulo,SP
 3226,-23.59156959,-46.56773882,sao paulo,SP
 3227,-23.585837,-46.57063033,sao paulo,SP
-3231,-23.65080247,-46.65849944,s„o paulo,SP
+3231,-23.65080247,-46.65849944,s√£o paulo,SP
 3236,-23.58985358,-46.55417195,sao paulo,SP
 3237,-23.59399497,-46.55209143,sao paulo,SP
 3238,-23.59446368,-46.54939413,sao paulo,SP
@@ -1550,8 +1550,8 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 3823,-23.48586309,-46.49275118,sao paulo,SP
 3827,-23.48353033,-46.48645524,sao paulo,SP
 3828,-23.48190972,-46.49492169,sao paulo,SP
-3831,-23.58705153,-46.5803211,s„o paulo,SP
-3840,-23.60153821,-46.46167529,s„o paulo,SP
+3831,-23.58705153,-46.5803211,s√£o paulo,SP
+3840,-23.60153821,-46.46167529,s√£o paulo,SP
 3870,-23.50739015,-46.4874932,sao paulo,SP
 3871,-23.50749211,-46.49021333,sao paulo,SP
 3872,-23.51253402,-46.50104954,sao paulo,SP
@@ -2299,7 +2299,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 4805,-23.71495005,-46.70399744,sao paulo,SP
 4806,-23.71145492,-46.70269838,sao paulo,SP
 4807,-23.71395618,-46.70014124,sao paulo,SP
-4808,-23.71410367,-46.7046042,s„o paulo,SP
+4808,-23.71410367,-46.7046042,s√£o paulo,SP
 4809,-23.71695814,-46.69411154,sao paulo,SP
 4810,-23.71126942,-46.69745743,sao paulo,SP
 4811,-23.71037573,-46.69372523,sao paulo,SP
@@ -2353,7 +2353,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 4867,-23.79199616,-46.72871171,sao paulo,SP
 4870,-23.75421392,-46.75526504,sao paulo,SP
 4872,-23.78971396,-46.63998245,sao paulo,SP
-4875,-23.82295251,-46.68576631,s„o paulo,SP
+4875,-23.82295251,-46.68576631,s√£o paulo,SP
 4877,-23.87779179,-46.64257604,sao paulo,SP
 4880,-23.79519708,-46.73840606,sao paulo,SP
 4881,-23.786087,-46.72743525,sao paulo,SP
@@ -2523,7 +2523,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 5117,-23.51348634,-46.74390116,sao paulo,SP
 5118,-23.51591734,-46.74493326,sao paulo,SP
 5119,-23.49480381,-46.73546714,sao paulo,SP
-5120,-23.51171862,-46.7318835,s„o paulo,SP
+5120,-23.51171862,-46.7318835,s√£o paulo,SP
 5121,-23.50784889,-46.73017202,sao paulo,SP
 5122,-23.50371811,-46.73464021,sao paulo,SP
 5123,-23.50535395,-46.73740608,sao paulo,SP
@@ -2615,7 +2615,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 5305,-23.53136383,-46.72976401,sao paulo,SP
 5307,-23.52260116,-46.74206322,sao paulo,SP
 5308,-23.52755512,-46.74432061,sao paulo,SP
-5310,-23.54333639,-46.73492199,s„o paulo,SP
+5310,-23.54333639,-46.73492199,s√£o paulo,SP
 5311,-23.52773504,-46.73898242,sao paulo,SP
 5312,-23.52870815,-46.73585576,sao paulo,SP
 5313,-23.53002497,-46.73503192,sao paulo,SP
@@ -2683,7 +2683,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 5397,-23.57942624,-46.77554394,sao paulo,SP
 5398,-23.57395221,-46.77764361,sao paulo,SP
 5399,-23.5754112,-46.77968022,sao paulo,SP
-5400,-23.55697379,-46.67603639,s„o paulo,SP
+5400,-23.55697379,-46.67603639,s√£o paulo,SP
 5401,-23.56281316,-46.67553529,sao paulo,SP
 5402,-23.56196757,-46.67449564,sao paulo,SP
 5403,-23.55775903,-46.66867985,sao paulo,SP
@@ -2841,7 +2841,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 5603,-23.58457562,-46.7008941,sao paulo,SP
 5604,-23.58715717,-46.69943945,sao paulo,SP
 5605,-23.58984035,-46.70408756,sao paulo,SP
-5606,-23.58013674,-46.70585137,s„o paulo,SP
+5606,-23.58013674,-46.70585137,s√£o paulo,SP
 5608,-23.58273631,-46.70678072,sao paulo,SP
 5609,-23.58106179,-46.70891643,sao paulo,SP
 5610,-23.5848326,-46.71047108,sao paulo,SP
@@ -3182,7 +3182,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 6363,-23.5680772,-46.84025164,carapicuiba,SP
 6364,-23.56548357,-46.8425451,carapicuiba,SP
 6365,-23.55342667,-46.84972934,carapicuiba,SP
-6379,-23.53484203,-46.85972267,carapicuÌba,SP
+6379,-23.53484203,-46.85972267,carapicu√≠ba,SP
 6380,-23.5391445,-46.83780271,carapicuiba,SP
 6381,-23.54578085,-46.8384783,carapicuiba,SP
 6382,-23.54998319,-46.83952197,carapicuiba,SP
@@ -3594,7 +3594,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 7413,-23.40880311,-46.36246255,aruja,SP
 7414,-23.40607416,-46.36476726,aruja,SP
 7417,-23.37955098,-46.32212762,aruja,SP
-7422,-23.38862437,-46.35467718,aruj·,SP
+7422,-23.38862437,-46.35467718,aruj√°,SP
 7424,-23.33178694,-46.30916214,aruja,SP
 7428,-23.40619667,-46.3223331,aruja,SP
 7429,-23.41410771,-46.32809382,aruja,SP
@@ -3613,7 +3613,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 7700,-23.36263745,-46.74097499,caieiras,SP
 7703,-23.37190329,-46.75246866,caieiras,SP
 7704,-23.37618658,-46.75196525,caieiras,SP
-7705,-23.65961406,-46.4757847,mau·,SP
+7705,-23.65961406,-46.4757847,mau√°,SP
 7712,-23.35553677,-46.74574703,caieiras,SP
 7713,-23.35178324,-46.7490856,caieiras,SP
 7714,-23.34703574,-46.75929964,caieiras,SP
@@ -4074,7 +4074,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 9139,-23.70251483,-46.52185804,santo andre,SP
 9150,-23.7773347,-46.30400591,santo andre,SP
 9160,-23.76698434,-46.46304046,santo andre,SP
-9161,-23.7665659,-46.45937452,santo andrÈ,SP
+9161,-23.7665659,-46.45937452,santo andr√©,SP
 9163,-23.76302485,-46.47374754,santo andre,SP
 9169,-23.71190178,-46.5152255,santo andre,SP
 9170,-23.70958493,-46.50923873,santo andre,SP
@@ -4101,7 +4101,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 9271,-23.64187704,-46.5019615,santo andre,SP
 9272,-23.65002343,-46.49519146,santo andre,SP
 9273,-23.65013155,-46.5039108,santo andre,SP
-9274,-23.65660447,-46.49759384,santo andrÈ,SP
+9274,-23.65660447,-46.49759384,santo andr√©,SP
 9280,-23.64007912,-46.51544838,santo andre,SP
 9290,-23.64866033,-46.50884403,santo andre,SP
 9291,-23.64543842,-46.52022906,santo andre,SP
@@ -4188,7 +4188,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 9602,-23.66197746,-46.56459334,sao bernardo do campo,SP
 9603,-23.66247173,-46.56417706,sao bernardo do campo,SP
 9604,-23.65690399,-46.5688735,sao bernardo do campo,SP
-9605,-23.6587354,-46.5675338,s„o bernardo do campo,SP
+9605,-23.6587354,-46.5675338,s√£o bernardo do campo,SP
 9606,-23.67610116,-46.5617335,sao bernardo do campo,SP
 9607,-23.67345845,-46.56079708,sao bernardo do campo,SP
 9608,-23.67496854,-46.56633317,sao bernardo do campo,SP
@@ -4240,7 +4240,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 9670,-23.66140955,-46.60405589,sao bernardo do campo,SP
 9671,-23.66440538,-46.60595551,sao bernardo do campo,SP
 9672,-23.66064514,-46.60232809,sao bernardo do campo,SP
-9680,-23.66460164,-46.58159516,s„o bernardo do campo,SP
+9680,-23.66460164,-46.58159516,s√£o bernardo do campo,SP
 9682,-23.66826282,-46.59794097,sao bernardo do campo,SP
 9683,-23.66770379,-46.59602933,sao bernardo do campo,SP
 9684,-23.66685227,-46.59415875,sao bernardo do campo,SP
@@ -4314,7 +4314,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 9860,-23.70427401,-46.57770804,sao bernardo do campo,SP
 9861,-23.71001453,-46.58174395,sao bernardo do campo,SP
 9862,-23.70155405,-46.58289108,sao bernardo do campo,SP
-9869,-23.72264479,-46.57386289,s„o bernardo do campo,SP
+9869,-23.72264479,-46.57386289,s√£o bernardo do campo,SP
 9890,-23.69466988,-46.56802728,sao bernardo do campo,SP
 9891,-23.68510553,-46.57079785,sao bernardo do campo,SP
 9892,-23.68270113,-46.57583165,sao bernardo do campo,SP
@@ -4450,7 +4450,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 11543,-23.88232261,-46.45209683,cubatao,SP
 11548,-23.87820762,-46.41787623,cubatao,SP
 11550,-23.8782449,-46.42656376,cubatao,SP
-11555,-23.88091418,-46.45025018,cubat„o,SP
+11555,-23.88091418,-46.45025018,cubat√£o,SP
 11570,-23.83569687,-46.37845171,cubatao,SP
 11573,-23.8834575,-46.4281605,cubatao,SP
 11600,-23.773845,-45.43988225,sao sebastiao,SP
@@ -4633,7 +4633,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 12289,-23.07051271,-45.7169805,cacapava,SP
 12290,-23.0571548,-45.71273623,cacapava,SP
 12294,-23.136282,-45.72167625,cacapava,SP
-12295,-23.18841147,-45.73469285,caÁapava,SP
+12295,-23.18841147,-45.73469285,ca√ßapava,SP
 12297,-23.08787047,-45.69007098,cacapava,SP
 12301,-23.26696232,-45.93984988,jacarei,SP
 12302,-23.27017237,-45.92967809,jacarei,SP
@@ -5130,7 +5130,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 13574,-22.02739378,-47.90081341,sao carlos,SP
 13575,-22.03362624,-47.90927689,sao carlos,SP
 13578,-21.893562,-47.8909845,agua vermelha,SP
-13579,-22.4362164,-46.82823839,santa eudÛxia,SP
+13579,-22.4362164,-46.82823839,santa eud√≥xia,SP
 13580,-22.06529543,-48.1791379,ribeirao bonito,SP
 13590,-22.1111716,-48.31406114,dourado,SP
 13600,-22.35531243,-47.38524196,araras,SP
@@ -5238,14 +5238,14 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 13908,-22.72279274,-46.84608623,amparo,SP
 13909,-22.69782211,-46.72131217,amparo,SP
 13910,-22.70240641,-46.96208187,monte alegre do sul,SP
-13911,-22.70085147,-46.98985612,jaguari˙na,SP
+13911,-22.70085147,-46.98985612,jaguari√∫na,SP
 13912,-22.6866874,-46.98315336,jaguariuna,SP
-13913,-22.66098967,-46.94689396,jaguari˙na,SP
+13913,-22.66098967,-46.94689396,jaguari√∫na,SP
 13914,-22.67504552,-46.97723924,jaguariuna,SP
 13915,-22.69692681,-46.9878625,jaguariuna,SP
 13916,-22.6863917,-46.99675804,jaguariuna,SP
-13917,-22.69730126,-47.00089496,jaguari˙na,SP
-13918,-22.70113978,-46.99858183,jaguari˙na,SP
+13917,-22.69730126,-47.00089496,jaguari√∫na,SP
+13918,-22.70113978,-46.99858183,jaguari√∫na,SP
 13919,-22.71121851,-46.98304536,jaguariuna,SP
 13920,-22.74051749,-46.89585858,pedreira,SP
 13930,-22.61103632,-46.70334849,serra negra,SP
@@ -5264,7 +5264,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 13988,-22.32959246,-46.72333619,eleuterio,SP
 13990,-22.19419359,-46.75089375,espirito santo do pinhal,SP
 13995,-22.11623854,-46.68372359,santo antonio do jardim,SP
-14001,-21.17605528,-47.81101201,ribeir„o preto,SP
+14001,-21.17605528,-47.81101201,ribeir√£o preto,SP
 14010,-21.17957806,-47.80917256,ribeirao preto,SP
 14015,-21.18075593,-47.80722506,ribeirao preto,SP
 14020,-21.20303591,-47.80187852,ribeirao preto,SP
@@ -5334,7 +5334,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 14185,-17.65696652,-45.43122402,candia,SP
 14200,-21.47832624,-47.55659341,sao simao,SP
 14210,-21.55431115,-47.70050115,luis antonio,SP
-14220,-21.23845784,-47.79056497,s„o sim„o,SP
+14220,-21.23845784,-47.79056497,s√£o sim√£o,SP
 14230,-21.31237284,-47.56368013,serra azul,SP
 14240,-21.27450737,-47.30544994,cajuru,SP
 14250,-21.29199256,-47.42867969,santa cruz da esperanca,SP
@@ -5384,7 +5384,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 14660,-20.76675826,-47.84088528,sales oliveira,SP
 14670,-20.72960149,-47.75230325,nuporanga,SP
 14680,-21.0241525,-47.77108987,jardinopolis,SP
-14690,-21.06367701,-47.74377483,jurucÍ,SP
+14690,-21.06367701,-47.74377483,juruc√™,SP
 14700,-20.94348987,-48.48214825,bebedouro,SP
 14701,-20.95097011,-48.48673717,bebedouro,SP
 14702,-20.96338701,-48.47074071,bebedouro,SP
@@ -5601,11 +5601,11 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 15600,-20.28395582,-50.2489524,fernandopolis,SP
 15601,-20.29595508,-50.25352307,fernandopolis,SP
 15603,-20.28401668,-50.24284254,fernandopolis,SP
-15604,-20.30231229,-50.2465483,fernandÛpolis,SP
-15607,-20.2777954,-50.24470596,fernandÛpolis,SP
+15604,-20.30231229,-50.2465483,fernand√≥polis,SP
+15607,-20.2777954,-50.24470596,fernand√≥polis,SP
 15608,-20.27223072,-50.24325977,fernandopolis,SP
-15610,-20.27992377,-50.25579886,brasit‚nia,SP
-15612,-20.27681574,-50.26244105,fernandÛpolis,SP
+15610,-20.27992377,-50.25579886,brasit√¢nia,SP
+15612,-20.27681574,-50.26244105,fernand√≥polis,SP
 15617,-20.28059338,-50.25518563,brasitania,SP
 15620,-20.14646731,-50.19560325,macedonia,SP
 15625,-20.35623962,-50.17426346,meridiano,SP
@@ -5696,7 +5696,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 15995,-21.59958743,-48.38776016,matao,SP
 15996,-21.58792413,-48.3753673,matao,SP
 15997,-21.5927088,-48.35639468,matao,SP
-15999,-21.55063142,-48.53124624,mat„o,SP
+15999,-21.55063142,-48.53124624,mat√£o,SP
 16010,-21.20817428,-50.43961464,aracatuba,SP
 16011,-21.20681362,-50.42468665,aracatuba,SP
 16012,-21.21224751,-50.40380277,aracatuba,SP
@@ -5707,7 +5707,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 16020,-21.22252141,-50.44588269,aracatuba,SP
 16021,-21.22688564,-50.45620367,aracatuba,SP
 16022,-21.23133542,-50.46438064,aracatuba,SP
-16023,-21.22978173,-50.47243419,araÁatuba,SP
+16023,-21.22978173,-50.47243419,ara√ßatuba,SP
 16025,-21.21323447,-50.45542,aracatuba,SP
 16026,-21.21728329,-50.46820812,aracatuba,SP
 16050,-21.19807583,-50.4424323,aracatuba,SP
@@ -5724,8 +5724,8 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 16075,-21.18687098,-50.45896813,aracatuba,SP
 16076,-21.18319572,-50.48521359,aracatuba,SP
 16078,-21.17183345,-50.46771844,aracatuba,SP
-16080,-21.14657514,-50.46475458,araÁatuba,SP
-16087,-21.20289946,-50.43200533,araÁatuba,SP
+16080,-21.14657514,-50.46475458,ara√ßatuba,SP
+16087,-21.20289946,-50.43200533,ara√ßatuba,SP
 16130,-20.93539755,-50.49599067,santo antonio do aracangua,SP
 16200,-21.29407401,-50.3429522,birigui,SP
 16201,-21.27537241,-50.33255051,birigui,SP
@@ -5919,7 +5919,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 17525,-22.23311335,-49.96477099,marilia,SP
 17526,-22.23336661,-49.97605109,marilia,SP
 17527,-22.22039168,-49.97496897,marilia,SP
-17532,-22.22561246,-49.96333936,marÌlia,SP
+17532,-22.22561246,-49.96333936,mar√≠lia,SP
 17533,-22.1564111,-50.00358588,marilia,SP
 17539,-22.22073603,-49.88346013,marilia,SP
 17540,-22.43963659,-49.92032479,ocaucu,SP
@@ -6069,7 +6069,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 18213,-23.57204096,-48.02460008,itapetininga,SP
 18214,-23.57898946,-48.02129376,itapetininga,SP
 18215,-23.58676947,-47.98226872,itapetininga,SP
-18216,-22.04286332,-47.89293324,conceiÁ„o,SP
+18216,-22.04286332,-47.89293324,concei√ß√£o,SP
 18217,-23.59913111,-48.31784555,rechan,SP
 18218,-23.77069186,-48.12964897,gramadinho,SP
 18220,-23.56472398,-47.88445328,alambari,SP
@@ -6131,7 +6131,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 18440,-23.86364503,-49.14046305,itabera,SP
 18460,-24.11298943,-49.33153304,itarare,SP
 18470,-23.82888727,-49.43422295,riversul,SP
-18475,-24.31953099,-49.14007837,bom sucesso de itararÈ,SP
+18475,-24.31953099,-49.14007837,bom sucesso de itarar√©,SP
 18480,-23.70593963,-49.48295869,itaporanga,SP
 18490,-23.63009336,-49.56240247,barao de antonina,SP
 18500,-23.05270563,-47.83614945,laranjal paulista,SP
@@ -6320,7 +6320,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 19820,-22.74911171,-50.57904104,taruma,SP
 19830,-22.42971585,-50.20523445,echapora,SP
 19840,-22.61272583,-50.66835213,maracai,SP
-19845,-24.0033168,-50.67184234,maracaÌ,SP
+19845,-24.0033168,-50.67184234,maraca√≠,SP
 19860,-22.74442805,-50.79124084,cruzalia,SP
 19865,-22.81486291,-50.79132789,pedrinhas paulista,SP
 19870,-22.9019665,-50.72797853,florinia,SP
@@ -6833,7 +6833,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 24130,-22.87961027,-43.0916037,niteroi,RJ
 24140,-22.88884341,-43.06812276,niteroi,RJ
 24141,-22.87688304,-43.05133431,niteroi,RJ
-24202,-22.89542603,-43.11547214,niterÛi,RJ
+24202,-22.89542603,-43.11547214,niter√≥i,RJ
 24210,-22.90212785,-43.12463807,niteroi,RJ
 24211,-21.22099485,-41.89197955,niteroi,RJ
 24220,-22.90316625,-43.10713069,niteroi,RJ
@@ -6909,7 +6909,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 24730,-22.82930136,-42.98790772,sao goncalo,RJ
 24731,-22.82328521,-42.98641041,sao goncalo,RJ
 24732,-22.82745803,-42.97452839,sao goncalo,RJ
-24733,-22.82905663,-42.97254716,s„o gonÁalo,RJ
+24733,-22.82905663,-42.97254716,s√£o gon√ßalo,RJ
 24734,-22.82904796,-42.96180063,sao goncalo,RJ
 24735,-22.84420382,-42.9561309,sao goncalo,RJ
 24736,-22.81952985,-42.9679759,sao goncalo,RJ
@@ -6945,7 +6945,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 24840,-22.71890517,-42.86386575,itaborai,RJ
 24845,-22.78609023,-42.82332363,itaborai,RJ
 24846,-22.71538558,-42.80638584,itaborai,RJ
-24850,-22.8089596,-42.88567928,itaboraÌ,RJ
+24850,-22.8089596,-42.88567928,itabora√≠,RJ
 24851,-22.82133914,-42.89060036,itaborai,RJ
 24855,-22.773285,-42.9178563,itaborai,RJ
 24856,-22.76568605,-42.9143173,itaborai,RJ
@@ -7201,7 +7201,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 26011,-22.74916798,-43.42883448,nova iguacu,RJ
 26012,-22.74140941,-43.43639675,nova iguacu,RJ
 26013,-22.74416044,-43.44230147,nova iguacu,RJ
-26014,-22.70976972,-43.46239836,nova iguaÁu,RJ
+26014,-22.70976972,-43.46239836,nova igua√ßu,RJ
 26015,-22.7482033,-43.43990359,nova iguacu,RJ
 26020,-22.73520591,-43.45046818,nova iguacu,RJ
 26021,-22.72848518,-43.43965214,nova iguacu,RJ
@@ -7227,7 +7227,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 26062,-22.64860924,-43.41461985,nova iguacu,RJ
 26063,-22.74151453,-43.46643363,nova iguacu,RJ
 26064,-22.70017832,-43.43911897,nova iguacu,RJ
-26065,-22.70365682,-43.44216249,nova iguaÁu,RJ
+26065,-22.70365682,-43.44216249,nova igua√ßu,RJ
 26070,-22.70974785,-43.43110724,nova iguacu,RJ
 26080,-22.72355578,-43.51061236,nova iguacu,RJ
 26082,-22.73208963,-43.50132696,nova iguacu,RJ
@@ -7489,7 +7489,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 27420,-22.41208227,-44.26478508,quatis,RJ
 27430,-22.40451585,-44.25423778,quatis,RJ
 27460,-22.72544902,-44.13443572,rio claro,RJ
-27465,-22.66127695,-44.10248308,getul‚ndia,RJ
+27465,-22.66127695,-44.10248308,getul√¢ndia,RJ
 27470,-22.69585503,-44.00307276,passa tres,RJ
 27475,-22.83116273,-44.1967564,lidice,RJ
 27510,-22.46573069,-44.45678278,resende,RJ
@@ -7627,7 +7627,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 28400,-21.64714184,-41.74860286,sao fidelis,RJ
 28405,-21.64161428,-41.73797143,ipuca,RJ
 28415,-21.59017961,-41.84190659,pureza,RJ
-28420,-21.67758846,-41.88789198,colÙnia,RJ
+28420,-21.67758846,-41.88789198,col√¥nia,RJ
 28425,-21.71472,-41.925,cambiasca,RJ
 28430,-21.5747775,-41.91224652,cambuci,RJ
 28435,-21.6256455,-41.98519584,tres irmaos,RJ
@@ -7951,7 +7951,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 29540,-20.53943835,-41.66631138,ibitirama,ES
 29550,-20.79176597,-41.39333157,jeronimo monteiro,ES
 29560,-20.77287157,-41.6749102,guacui,ES
-29564,-20.78111,-41.80056,s„o pedro de rates,ES
+29564,-20.78111,-41.80056,s√£o pedro de rates,ES
 29580,-20.69034745,-41.84737713,dores do rio preto,ES
 29590,-20.6196913,-41.68591568,divino de sao lourenco,ES
 29600,-20.07518514,-41.12470467,afonso claudio,ES
@@ -8440,7 +8440,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 33822,-19.81189875,-44.09099707,ribeirao das neves,MG
 33823,-19.76264275,-44.14252284,ribeirao das neves,MG
 33825,-19.76037153,-44.14640023,ribeirao das neves,MG
-33826,-19.7525173,-44.09044538,ribeir„o das neves,MG
+33826,-19.7525173,-44.09044538,ribeir√£o das neves,MG
 33830,-19.74317718,-44.13676941,ribeirao das neves,MG
 33833,-19.76621925,-44.12734755,ribeirao das neves,MG
 33836,-19.77350146,-44.10419588,ribeirao das neves,MG
@@ -8511,7 +8511,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 34720,-19.84189776,-43.86458083,sabara,MG
 34725,-19.86247422,-43.84554263,sabara,MG
 34730,-19.83318791,-43.84330067,sabara,MG
-34735,-19.83309425,-43.862105,sabar·,MG
+34735,-19.83309425,-43.862105,sabar√°,MG
 34740,-19.79625169,-43.75503008,ravena,MG
 34800,-19.88499457,-43.66585956,caete,MG
 34940,-19.96027703,-43.69425248,morro vermelho,MG
@@ -8609,11 +8609,11 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 35200,-19.49483185,-41.07040028,aimores,MG
 35202,-19.49731976,-41.08408119,conceicao do capim,MG
 35212,-19.66670882,-41.25207893,penha do capim,MG
-35215,-19.75446026,-41.28234272,s„o sebasti„o da vala,MG
+35215,-19.75446026,-41.28234272,s√£o sebasti√£o da vala,MG
 35220,-19.39835037,-41.22772171,itueta,MG
 35222,-19.41397908,-41.24904716,quatituba,MG
 35225,-19.35773224,-41.38030723,santa rita do itueto,MG
-35228,-19.34941064,-41.45372894,s„o josÈ do itueto,MG
+35228,-19.34941064,-41.45372894,s√£o jos√© do itueto,MG
 35230,-19.32746331,-41.25526233,resplendor,MG
 35232,-19.25538609,-41.1522294,calixto,MG
 35236,-20.00758123,-44.04116293,independencia,MG
@@ -8830,7 +8830,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 35725,-19.54163799,-44.03041539,mocambeiro,MG
 35730,-19.54694258,-44.13252133,capim branco,MG
 35732,-19.28947565,-43.95400551,baldim,MG
-35733,-19.3304776,-43.93480242,s„o vicente,MG
+35733,-19.3304776,-43.93480242,s√£o vicente,MG
 35736,-19.37284228,-44.06056922,funilandia,MG
 35738,-19.47862556,-44.15885333,prudente de morais,MG
 35740,-19.77419178,-44.310023,esmeraldas,MG
@@ -8865,7 +8865,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 35875,-19.21837453,-43.38179885,morro do pilar,MG
 35878,-19.08726546,-43.14189171,carmesia,MG
 35880,-19.22827798,-43.25270779,santo antonio do rio abaixo,MG
-35894,-19.05449907,-42.92723036,dores de guanh„es,MG
+35894,-19.05449907,-42.92723036,dores de guanh√£es,MG
 35900,-19.62985292,-43.22384359,itabira,MG
 35901,-19.65559344,-43.23361501,itabira,MG
 35902,-19.65093496,-43.20633056,itabira,MG
@@ -9276,12 +9276,12 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 37410,-21.69506412,-45.25749919,tres coracoes,MG
 37411,-21.69505277,-45.25879256,tres coracoes,MG
 37412,-21.68047327,-45.24799246,tres coracoes,MG
-37413,-21.68525158,-45.2375288,trÍs coraÁıes,MG
+37413,-21.68525158,-45.2375288,tr√™s cora√ß√µes,MG
 37414,-21.70104795,-45.25617021,tres coracoes,MG
-37415,-21.70323026,-45.26356733,trÍs coraÁıes,MG
-37416,-21.71969834,-45.26616419,trÍs coraÁıes,MG
+37415,-21.70323026,-45.26356733,tr√™s cora√ß√µes,MG
+37416,-21.71969834,-45.26616419,tr√™s cora√ß√µes,MG
 37417,-21.68883426,-45.26332194,tres coracoes,MG
-37418,-21.66765646,-45.28112479,trÍs coraÁıes,MG
+37418,-21.66765646,-45.28112479,tr√™s cora√ß√µes,MG
 37420,-21.85450551,-45.29603322,cambuquira,MG
 37430,-21.88104051,-45.08620968,conceicao do rio verde,MG
 37440,-21.98013864,-44.93186888,caxambu,MG
@@ -9425,7 +9425,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 37922,-20.33000944,-46.37159043,vargem bonita,MG
 37925,-20.47008992,-45.96141713,piumhi,MG
 37926,-20.29054044,-45.90182104,doresopolis,MG
-37927,-20.34574364,-46.48387673,s„o josÈ do barreiro,MG
+37927,-20.34574364,-46.48387673,s√£o jos√© do barreiro,MG
 37928,-20.24703516,-46.3670775,sao roque de minas,MG
 37930,-20.61507723,-46.04727483,capitolio,MG
 37940,-20.86192005,-46.38734583,alpinopolis,MG
@@ -9510,7 +9510,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 38250,-19.69429435,-49.08339527,comendador gomes,MG
 38260,-19.86254706,-49.77054871,sao francisco de sales,MG
 38270,-19.53531168,-49.48501647,campina verde,MG
-38272,-19.56150422,-50.01607331,honorÛpolis,MG
+38272,-19.56150422,-50.01607331,honor√≥polis,MG
 38280,-19.72896444,-50.19522319,iturama,MG
 38282,-19.69701256,-50.45670553,alexandrita,MG
 38288,-19.52847533,-50.33297578,uniao de minas,MG
@@ -9695,7 +9695,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 39317,-16.05213369,-45.14650509,pintopolis,MG
 39318,-16.21941518,-44.9044809,icarai de minas,MG
 39320,-16.28744437,-44.78299452,ubai,MG
-39325,-16.37489444,-45.01540335,bentÛpolis de minas,MG
+39325,-16.37489444,-45.01540335,bent√≥polis de minas,MG
 39328,-16.63152211,-45.06408991,ponto chique,MG
 39330,-16.21249422,-44.43122943,brasilia de minas,MG
 39335,-15.99857798,-44.27524407,japonvar,MG
@@ -9734,9 +9734,9 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 39430,-15.93041569,-44.00628219,sao joao da ponte,MG
 39437,-15.90442518,-44.30293667,lontra,MG
 39440,-15.80710771,-43.30849638,janauba,MG
-39442,-15.80136463,-43.30962069,jana˙ba,MG
+39442,-15.80136463,-43.30962069,jana√∫ba,MG
 39445,-15.81244149,-43.30849049,janauba,MG
-39447,-15.82113,-43.30068911,jana˙ba,MG
+39447,-15.82113,-43.30068911,jana√∫ba,MG
 39450,-15.70366621,-44.02872276,varzelandia,MG
 39455,-15.6671247,-44.16584679,ibiracatu,MG
 39458,-15.59145254,-43.60922348,verdelandia,MG
@@ -9831,7 +9831,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 39707,-18.27796565,-42.67225416,sao jose do jacuri,MG
 39708,-18.16781918,-42.76691341,frei lagonegro,MG
 39710,-18.61900903,-42.28202177,coroaci,MG
-39711,-19.93140931,-41.69191043,conceiÁ„o de tronqueiras,MG
+39711,-19.93140931,-41.69191043,concei√ß√£o de tronqueiras,MG
 39715,-18.47573908,-42.31018592,virgolandia,MG
 39716,-18.47465737,-42.30815462,virgolandia,MG
 39718,-18.45404071,-42.24915851,nacip raydan,MG
@@ -9908,7 +9908,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 39925,-15.99956941,-39.9487582,salto da divisa,MG
 39928,-16.25047436,-40.14959011,santa maria do salto,MG
 39930,-16.1478404,-40.29635659,jacinto,MG
-39931,-16.14535827,-40.29688843,avaÌ do jacinto,MG
+39931,-16.14535827,-40.29688843,ava√≠ do jacinto,MG
 39935,-16.5330209,-40.17613801,santo antonio do jacinto,MG
 39940,-16.61079335,-40.57128305,rio do prado,MG
 39945,-16.73729994,-40.42106825,palmopolis,MG
@@ -10247,7 +10247,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 43815,-12.66754039,-38.53648956,candeias,BA
 43820,-12.67297296,-38.53955457,candeias,BA
 43825,-12.6782208,-38.53766545,candeias,BA
-43840,-12.72945989,-38.52536209,passÈ,BA
+43840,-12.72945989,-38.52536209,pass√©,BA
 43843,-12.71340781,-38.45152966,candeias,BA
 43845,-12.7342,-38.446635,passagem dos teixeiras,BA
 43850,-12.51517302,-38.4927245,sao sebastiao do passe,BA
@@ -10332,7 +10332,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 44245,-12.33011143,-38.76609033,conceicao do jacuipe,BA
 44250,-12.24795643,-38.75114775,coracao de maria,BA
 44255,-12.04663152,-38.76605736,irara,BA
-44260,-12.0249673,-38.86662558,santanÛpolis,BA
+44260,-12.0249673,-38.86662558,santan√≥polis,BA
 44270,-12.40394948,-38.62121845,terra nova,BA
 44280,-12.30434589,-38.64050709,teodoro sampaio,BA
 44300,-12.5985626,-38.96525,cachoeira,BA
@@ -10388,7 +10388,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 44715,-11.5270365,-40.31676303,varzea do poco,BA
 44718,-10.97025729,-41.08206745,ourolandia,BA
 44720,-11.43046047,-40.5974575,miguel calmon,BA
-44730,-11.09250417,-40.432761,caÈm,BA
+44730,-11.09250417,-40.432761,ca√©m,BA
 44740,-10.93924309,-40.42119861,saude,BA
 44745,-10.95517376,-40.57514514,mirangaba,BA
 44750,-11.10747177,-40.07027331,caldeirao grande,BA
@@ -10451,7 +10451,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 45075,-14.84502869,-40.85372421,vitoria da conquista,BA
 45077,-14.84472844,-40.87084,vitoria da conquista,BA
 45078,-14.83608029,-40.88158523,vitoria da conquista,BA
-45079,-14.84220121,-40.89073309,vitÛria da conquista,BA
+45079,-14.84220121,-40.89073309,vit√≥ria da conquista,BA
 45085,-14.83951049,-40.84717434,vitoria da conquista,BA
 45089,-14.828166,-40.82744025,vitoria da conquista,BA
 45095,-14.9084898,-40.84039442,vitoria da conquista,BA
@@ -10519,7 +10519,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 45430,-13.53500306,-39.09969885,taperoa,BA
 45435,-13.73470657,-39.1475058,itubera,BA
 45436,-13.76239546,-39.37396752,pirai do norte,BA
-45440,-13.60334619,-39.09995872,nilo peÁanha,BA
+45440,-13.60334619,-39.09995872,nilo pe√ßanha,BA
 45443,-13.82262573,-39.14202948,igrapiuna,BA
 45445,-13.94478858,-39.10515643,camamu,BA
 45450,-13.74481386,-39.48727706,gandu,BA
@@ -10721,7 +10721,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 46840,-12.64720071,-40.93317932,ibiquera,BA
 46850,-12.66166445,-40.6078088,boa vista do tupim,BA
 46860,-12.76801491,-40.21112871,iacu,BA
-46865,-12.79991674,-40.35400462,jo„o amaro,BA
+46865,-12.79991674,-40.35400462,jo√£o amaro,BA
 46875,-12.70812094,-39.69845947,itatim,BA
 46880,-12.5273067,-40.30495396,itaberaba,BA
 46900,-12.41810541,-41.77124307,seabra,BA
@@ -10778,10 +10778,10 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 47813,-12.12665087,-45.00816226,barreiras,BA
 47814,-12.94850051,-38.46063227,barreiras,BA
 47820,-12.3631793,-44.97710808,sao desiderio,BA
-47825,-12.42922506,-45.08604599,sÌtio grande,BA
+47825,-12.42922506,-45.08604599,s√≠tio grande,BA
 47827,-26.91987291,-49.08680234,roda velha,BA
 47830,-12.30576185,-44.53984856,baianopolis,BA
-47845,-12.31391243,-44.8595473,catol‚ndia,BA
+47845,-12.31391243,-44.8595473,catol√¢ndia,BA
 47850,-12.08925544,-45.79618023,luis eduardo magalhaes,BA
 47900,-12.02729069,-44.25687011,cotegipe,BA
 47940,-12.12167524,-43.88835257,wanderley,BA
@@ -10814,7 +10814,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 48170,-11.87085616,-38.76045272,agua fria,BA
 48180,-11.94326482,-38.08409866,entre rios,BA
 48280,-12.53054415,-38.29707502,mata de sao joao,BA
-48288,-12.57681,-38.00417,aÁu da torre,BA
+48288,-12.57681,-38.00417,a√ßu da torre,BA
 48289,-12.57536932,-38.00267349,mata de sao joao,BA
 48290,-12.25599748,-38.03873055,itanagra,BA
 48300,-11.81332859,-37.61260698,conde,BA
@@ -10863,7 +10863,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 48611,-9.446065107,-38.21040891,paulo afonso,BA
 48620,-9.342155274,-38.25645111,gloria,BA
 48630,-8.846843084,-38.76717596,rodelas,BA
-48650,-9.171297674,-39.05698998,macururÈ,BA
+48650,-9.171297674,-39.05698998,macurur√©,BA
 48660,-8.978426698,-39.09821212,chorrocho,BA
 48668,-13.00910118,-38.52597899,barra do tarrachil,BA
 48680,-8.721202036,-39.1160834,abare,BA
@@ -10875,7 +10875,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 48725,-11.74739138,-39.19029948,ichu,BA
 48730,-11.56402383,-39.28253614,conceicao do coite,BA
 48740,-13.53250729,-38.99305243,salgadalia,BA
-48745,-12.24038638,-38.93229404,conceiÁ„o do coitÈ,BA
+48745,-12.24038638,-38.93229404,concei√ß√£o do coit√©,BA
 48750,-11.49397898,-39.42505174,retirolandia,BA
 48760,-11.33566856,-38.96205792,araci,BA
 48770,-11.48930777,-38.99943745,teofilandia,BA
@@ -10884,7 +10884,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 48793,-11.02778014,-38.7918949,tucano,BA
 48800,-10.43899614,-39.33149582,monte santo,BA
 48830,-10.75435318,-39.20803709,quijingue,BA
-48832,-10.67407914,-39.05057508,algodıes,BA
+48832,-10.67407914,-39.05057508,algod√µes,BA
 48840,-10.66726413,-39.49786405,cansancao,BA
 48850,-10.69244349,-39.85197394,itiuba,BA
 48860,-10.9780335,-39.6272452,queimadas,BA
@@ -11298,7 +11298,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 54345,-8.200862124,-34.97326448,jaboatao dos guararapes,PE
 54350,-8.159325169,-34.9336215,jaboatao dos guararapes,PE
 54352,-8.172833429,-34.95425211,jaboatao dos guararapes,PE
-54353,-8.177621297,-34.93752198,jaboat„o dos guararapes,PE
+54353,-8.177621297,-34.93752198,jaboat√£o dos guararapes,PE
 54360,-8.138942788,-34.97342262,jaboatao dos guararapes,PE
 54365,-8.151906098,-34.97826396,jaboatao dos guararapes,PE
 54368,-8.149989293,-34.95928,jaboatao dos guararapes,PE
@@ -11324,7 +11324,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 54580,-8.236396854,-34.98296014,cabo de santo agostinho,PE
 54589,-8.223108257,-34.96288426,cabo de santo agostinho,PE
 54590,-8.290725618,-35.00541593,santo agostinho,PE
-54700,-7.985571164,-35.07647803,s„o lourenÁo da mata,PE
+54700,-7.985571164,-35.07647803,s√£o louren√ßo da mata,PE
 54705,-8.006205633,-35.01686463,sao lourenco da mata,PE
 54710,-8.00156206,-35.04860327,sao lourenco da mata,PE
 54715,-8.010120299,-35.02968218,sao lourenco da mata,PE
@@ -11332,7 +11332,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 54725,-7.992048717,-35.04547705,sao lourenco da mata,PE
 54727,-7.991721714,-35.05278754,sao lourenco da mata,PE
 54730,-7.996794272,-35.04673334,sao lourenco da mata,PE
-54733,-8.002344702,-35.00822628,s„o lourenÁo da mata,PE
+54733,-8.002344702,-35.00822628,s√£o louren√ßo da mata,PE
 54735,-7.990673061,-35.04121641,sao lourenco da mata,PE
 54737,-7.9790355,-35.07036975,sao lourenco da mata,PE
 54740,-7.999084654,-35.03035706,sao lourenco da mata,PE
@@ -11392,7 +11392,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 55157,-8.334186986,-36.41568844,belo jardim,PE
 55158,-8.342392619,-36.41253239,belo jardim,PE
 55160,-20.0661825,-40.18728995,serra do vento,PE
-55168,-8.014421219,-34.90060401,·gua fria,PE
+55168,-8.014421219,-34.90060401,√°gua fria,PE
 55170,-8.145375263,-36.36995588,brejo da madre de deus,PE
 55175,-8.176074681,-36.19531529,fazenda nova,PE
 55178,-20.12146842,-40.30665951,sao domingos,PE
@@ -11407,7 +11407,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 55240,-8.185303012,-36.70489751,pocao,PE
 55250,-8.362124781,-36.56277313,sanharo,PE
 55260,-8.467403142,-36.77468582,alagoinha,PE
-55265,-8.538205697,-36.72504661,perpÈtuo socorro,PE
+55265,-8.538205697,-36.72504661,perp√©tuo socorro,PE
 55270,-8.576691494,-36.87476634,venturosa,PE
 55280,-8.49955841,-36.94480586,pedra,PE
 55290,-8.912742075,-36.48126133,garanhuns,PE
@@ -11425,7 +11425,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 55310,-9.003899881,-36.32576031,palmeirina,PE
 55315,-9.129383431,-36.3274973,correntes,PE
 55320,-9.125103192,-36.45907273,lagoa do ouro,PE
-55325,-9.024839005,-36.57020045,brej„o,PE
+55325,-9.024839005,-36.57020045,brej√£o,PE
 55330,-9.16916149,-36.68185593,bom conselho,PE
 55334,-9.275841959,-36.6133731,rainha isabel,PE
 55340,-9.112818022,-37.12012187,aguas belas,PE
@@ -11594,7 +11594,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 56400,-8.598494331,-38.57645984,floresta,PE
 56420,-8.321483937,-38.74258263,carnaubeira da penha,PE
 56430,-8.727125658,-38.68859419,itacuruba,PE
-56440,-8.751287614,-38.96186602,belÈm do s„o francisco,PE
+56440,-8.751287614,-38.96186602,bel√©m do s√£o francisco,PE
 56460,-8.977901828,-38.22098085,petrolandia,PE
 56470,-9.179126561,-38.25079086,jatoba,PE
 56480,-9.104584029,-38.1494257,tacaratu,PE
@@ -11645,7 +11645,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 56930,-7.939697832,-38.15336339,calumbi,PE
 56950,-7.86432773,-38.75858381,sao jose do belmonte,PE
 56980,-8.122101094,-38.72903863,mirandiba,PE
-57000,-9.638605854,-35.71022155,maceiÛ,AL
+57000,-9.638605854,-35.71022155,macei√≥,AL
 57010,-9.670103742,-35.75477751,maceio,AL
 57014,-9.661555854,-35.75778088,maceio,AL
 57015,-9.652998458,-35.75825657,maceio,AL
@@ -11705,7 +11705,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 57235,-10.05558047,-36.05262131,poxim,AL
 57240,-9.780400396,-36.09734686,sao miguel dos campos,AL
 57241,-9.783200218,-36.10270958,sao miguel dos campos,AL
-57242,-9.783189037,-36.09109562,s„o miguel dos campos,AL
+57242,-9.783189037,-36.09109562,s√£o miguel dos campos,AL
 57244,-10.01030272,-36.02309041,jequia da praia,AL
 57245,-9.798059023,-36.10494871,sao miguel dos campos,AL
 57246,-9.874005,-35.97120692,sao miguel dos campos,AL
@@ -11756,7 +11756,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 57442,-9.533804821,-37.29593529,olho d'agua das flores,AL
 57445,-9.559128398,-37.38166146,sao jose da tapera,AL
 57460,-9.608308222,-37.76072782,piranhas,AL
-57470,-9.501612044,-37.832093,olho d'·gua do casado,AL
+57470,-9.501612044,-37.832093,olho d'√°gua do casado,AL
 57475,-9.255568939,-38.00666108,pariconha,AL
 57480,-9.383374689,-38.00233657,delmiro gouveia,AL
 57490,-9.263293463,-37.93480439,agua branca,AL
@@ -11923,7 +11923,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 58213,-6.77979339,-35.49680937,pirpirituba,PB
 58220,-6.751304323,-35.63419905,bananeiras,PB
 58225,-6.75880139,-35.65749668,solanea,PB
-58228,-6.603619312,-35.62707366,dona inÍs,PB
+58228,-6.603619312,-35.62707366,dona in√™s,PB
 58230,-6.64275944,-35.79292845,cacimba de dentro,PB
 58233,-6.53332861,-35.74254891,araruna,PB
 58238,-6.780540393,-35.81915018,casserengue,PB
@@ -11965,7 +11965,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 58334,-7.249563287,-35.21121578,sao miguel de taipu,PB
 58337,-7.140305987,-35.0899962,cruz do espirito santo,PB
 58338,-7.262389717,-35.26037387,pilar,PB
-58339,-7.247067229,-35.38054366,s„o josÈ dos ramos,PB
+58339,-7.247067229,-35.38054366,s√£o jos√© dos ramos,PB
 58340,-7.090859929,-35.22995041,sape,PB
 58342,-7.14746945,-35.23749154,sobrado,PB
 58345,-7.058760518,-35.31619709,mari,PB
@@ -11987,7 +11987,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 58396,-6.827754391,-35.76028383,arara,PB
 58397,-6.96668204,-35.70328593,areia,PB
 58398,-6.965863318,-35.79518567,remigio,PB
-58399,-6.904074428,-36.01124479,algod„o de jandaÌra,PB
+58399,-6.904074428,-36.01124479,algod√£o de janda√≠ra,PB
 58400,-7.219619352,-35.88957488,campina grande,PB
 58401,-7.209478006,-35.88119305,campina grande,PB
 58402,-7.211493273,-35.87407202,campina grande,PB
@@ -12016,7 +12016,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 58434,-7.239726,-35.928495,campina grande,PB
 58436,-7.207082425,-35.94293679,campina grande,PB
 58437,-7.210490557,-35.92973013,campina grande,PB
-58441,-7.027561382,-35.95299216,s„o josÈ da mata,PB
+58441,-7.027561382,-35.95299216,s√£o jos√© da mata,PB
 58450,-7.481849213,-36.13292578,boqueirao,PB
 58458,-7.523320024,-35.99891768,barra de santana,PB
 58460,-7.743232162,-36.06298763,alcantil,PB
@@ -12034,7 +12034,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 58515,-8.076302147,-37.09585993,zabele,PB
 58520,-8.082587166,-36.85144034,sao joao do tigre,PB
 58530,-7.890820243,-36.82543959,camalau,PB
-58533,-6.982217132,-34.83016206,pindur„o,PB
+58533,-6.982217132,-34.83016206,pindur√£o,PB
 58535,-7.795972403,-36.66106238,congo,PB
 58540,-7.67003953,-36.88001673,sume,PB
 58548,-7.567200621,-37.0609239,amparo,PB
@@ -12049,7 +12049,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 58600,-6.872599211,-36.91704042,santa luzia,PB
 58610,-6.775092239,-36.79887858,sao jose do sabugi,PB
 58620,-6.77069609,-36.99189723,varzea,PB
-58625,-6.927377151,-37.09644008,s„o mamede,PB
+58625,-6.927377151,-37.09644008,s√£o mamede,PB
 58640,-6.99413,-36.71354527,junco do serido,PB
 58660,-7.07046177,-36.57956431,juazeirinho,PB
 58665,-6.941213824,-36.6281927,tenorio,PB
@@ -12275,7 +12275,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 59280,-5.856355235,-35.34981494,macaiba,RN
 59290,-5.776480016,-35.29546815,sao goncalo do amarante,RN
 59291,-5.7920864,-35.33436366,sao goncalo do amarante,RN
-59293,-5.750633422,-35.29546815,s„o gonÁalo do amarante,RN
+59293,-5.750633422,-35.29546815,s√£o gon√ßalo do amarante,RN
 59295,-5.772948394,-35.28106085,sao goncalo do amarante,RN
 59296,-5.774610636,-35.27391646,sao goncalo do amarante,RN
 59297,-5.789439584,-35.30689195,sao goncalo do amarante,RN
@@ -12354,10 +12354,10 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 59610,-5.190036147,-37.33975389,mossoro,RN
 59611,-5.182507367,-37.3462065,mossoro,RN
 59612,-5.175560498,-37.35781406,mossoro,RN
-59613,-5.155605,-37.35197775,mossorÛ,RN
+59613,-5.155605,-37.35197775,mossor√≥,RN
 59614,-5.153660355,-37.36185498,mossoro,RN
 59615,-5.152756373,-37.35414018,mossoro,RN
-59616,-5.140274832,-37.35557764,mossorÛ,RN
+59616,-5.140274832,-37.35557764,mossor√≥,RN
 59617,-5.159954105,-37.36473054,mossoro,RN
 59618,-5.183019094,-37.33664425,mossoro,RN
 59619,-5.176081137,-37.34662807,mossoro,RN
@@ -12658,7 +12658,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 61920,-3.848511,-38.61446006,maracanau,CE
 61921,-3.844898853,-38.61408072,maracanau,CE
 61925,-3.857927784,-38.59350961,maracanau,CE
-61930,-3.836986418,-38.58078443,maracana˙,CE
+61930,-3.836986418,-38.58078443,maracana√∫,CE
 61932,-3.86103524,-38.58437102,maracanau,CE
 61933,-3.86930248,-38.58853286,maracanau,CE
 61934,-3.874046179,-38.5940795,maracanau,CE
@@ -12945,7 +12945,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 63610,-5.744598364,-39.62807679,mombaca,CE
 63620,-5.730684168,-39.00787475,solonopole,CE
 63630,-5.453532734,-39.71729676,pedra branca,CE
-63632,-5.527701494,-39.5977276,mineirol‚ndia,CE
+63632,-5.527701494,-39.5977276,mineirol√¢ndia,CE
 63635,-5.676580229,-39.19440203,milha,CE
 63640,-5.396137721,-40.30889231,independencia,CE
 63645,-5.914358075,-39.26693427,deputado irapuan pinheiro,CE
@@ -13069,11 +13069,11 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 64201,-2.895436786,-41.78727123,parnaiba,PI
 64202,-2.906543037,-41.76111932,parnaiba,PI
 64204,-2.907039594,-41.74967048,parnaiba,PI
-64205,-2.92511977,-41.74282801,parnaÌba,PI
+64205,-2.92511977,-41.74282801,parna√≠ba,PI
 64206,-2.900801779,-41.75622236,parnaiba,PI
 64207,-2.917620287,-41.74306244,parnaiba,PI
 64208,-2.92128682,-41.74621696,parnaiba,PI
-64209,-2.921121367,-41.73626788,parnaÌba,PI
+64209,-2.921121367,-41.73626788,parna√≠ba,PI
 64210,-2.926384759,-41.74675521,parnaiba,PI
 64211,-2.927159857,-41.74936194,parnaiba,PI
 64212,-2.928834862,-41.75537063,parnaiba,PI
@@ -13141,7 +13141,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 64455,-5.82045011,-42.51287732,barro duro,PI
 64460,-5.892286384,-42.63327448,agua branca,PI
 64465,-5.837361524,-42.62802743,lagoinha do piaui,PI
-64468,-5.84624689,-42.58037075,olho d'·gua do piauÌ,PI
+64468,-5.84624689,-42.58037075,olho d'√°gua do piau√≠,PI
 64470,-5.988796261,-42.56055797,hugo napoleao,PI
 64475,-6.62229232,-42.69508924,francisco ayres,PI
 64480,-6.652628532,-42.53593116,arraial,PI
@@ -13150,12 +13150,12 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 64500,-7.016174809,-42.12535055,oeiras,PI
 64510,-6.913474301,-41.86388676,sao joao da varjota,PI
 64512,-6.598469472,-42.28140373,tanque do piaui,PI
-64514,-6.794131282,-42.3934858,cajazeiras do piauÌ,PI
+64514,-6.794131282,-42.3934858,cajazeiras do piau√≠,PI
 64516,-7.226534865,-42.17791411,colonia do piaui,PI
 64518,-6.797075284,-42.27834821,santa rosa do piaui,PI
 64520,-6.395849231,-42.26092189,francinopolis,PI
 64525,-6.548064555,-42.25127146,varzea grande,PI
-64528,-6.521170651,-42.1054976,barra d'alc‚ntara,PI
+64528,-6.521170651,-42.1054976,barra d'alc√¢ntara,PI
 64530,-6.450768989,-41.92449013,novo oriente do piaui,PI
 64535,-6.66602095,-41.70789995,inhuma,PI
 64540,-6.824867647,-41.74070509,ipiranga do piaui,PI
@@ -13226,7 +13226,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 64782,-9.220464494,-43.12912827,jurema,PI
 64783,-9.065175082,-42.99256484,sao braz do piaui,PI
 64785,-9.341008979,-42.43672274,dirceu arcoverde,PI
-64788,-9.481628695,-42.78964755,fartura do piauÌ,PI
+64788,-9.481628695,-42.78964755,fartura do piau√≠,PI
 64790,-9.001990173,-41.9730888,dom inocencio,PI
 64793,-8.826232629,-42.47976066,coronel jose dias,PI
 64795,-9.281829754,-43.32788457,caracol,PI
@@ -13277,7 +13277,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 64970,-10.22428255,-44.63593588,parnagua,PI
 64975,-10.12841567,-44.95420136,riacho frio,PI
 64980,-10.4388164,-45.16467786,corrente,PI
-64990,-9.923387167,-45.47635169,barreiras do piauÌ,PI
+64990,-9.923387167,-45.47635169,barreiras do piau√≠,PI
 64993,-10.0300074,-45.30435389,sao goncalo do gurgueia,PI
 64995,-10.6523072,-45.18721142,cristalandia do piaui,PI
 65000,-2.572348433,-44.20476621,sao luis,MA
@@ -13359,14 +13359,14 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 65195,-2.499852001,-43.25351828,santo amaro,MA
 65200,-2.523474629,-45.08403686,pinheiro,MA
 65204,-2.594843318,-45.36668292,presidente sarney,MA
-65206,-2.968129658,-45.34851174,pedro do ros·rio,MA
+65206,-2.968129658,-45.34851174,pedro do ros√°rio,MA
 65208,-2.237248053,-45.30036615,santa helena,MA
 65210,-3.321588447,-45.01561203,cajari,MA
 65213,-3.291983604,-45.17569454,penalva,MA
 65215,-3.211712565,-45.00188205,viana,MA
 65218,-3.10055054,-45.03228075,matinha,MA
 65220,-2.896353952,-44.88083776,sao vicente ferrer,MA
-65223,-2.996036559,-44.99812465,olinda nova do maranh„o,MA
+65223,-2.996036559,-44.99812465,olinda nova do maranh√£o,MA
 65225,-2.958762777,-44.79805414,sao joao batista,MA
 65230,-2.875763646,-44.6722769,cajapio,MA
 65233,-2.707780707,-44.74003884,bacurituba,MA
@@ -13471,7 +13471,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 65608,-4.864671196,-43.37806554,caxias,MA
 65609,-4.876570368,-43.3651332,caxias,MA
 65610,-4.630623589,-43.47072511,aldeias altas,MA
-65615,-5.112117601,-43.81084018,s„o jo„o do soter,MA
+65615,-5.112117601,-43.81084018,s√£o jo√£o do soter,MA
 65620,-4.255409165,-43.01542739,coelho neto,MA
 65625,-4.150472492,-42.9456052,duque bacelar,MA
 65630,-5.101697536,-42.82267859,timon,MA
@@ -13500,7 +13500,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 65705,-4.04004171,-44.9363753,lago verde,MA
 65706,-4.141545834,-45.11455022,olho d'agua das cunhas,MA
 65707,-3.889927012,-45.1707903,pio xii,MA
-65708,-4.376730915,-44.67439923,s„o luÌs gonzaga do maranh„o,MA
+65708,-4.376730915,-44.67439923,s√£o lu√≠s gonzaga do maranh√£o,MA
 65709,-4.037491492,-45.23771877,satubinha,MA
 65710,-4.604339321,-45.0506699,lago do junco,MA
 65712,-4.611545836,-44.97955554,lago dos rodrigues,MA
@@ -13670,9 +13670,9 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 66912,-1.147700892,-48.46249944,belem,PA
 66913,-1.153434615,-48.46652653,belem,PA
 66914,-1.146408353,-48.46048742,belem,PA
-66916,-1.457859321,-48.49193008,belÈm,PA
+66916,-1.457859321,-48.49193008,bel√©m,PA
 66918,-1.123038547,-48.43779483,belem,PA
-66920,-1.263224524,-48.47027967,belÈm,PA
+66920,-1.263224524,-48.47027967,bel√©m,PA
 66923,-1.097028066,-48.41007202,belem,PA
 67010,-1.395828545,-48.4176007,ananindeua,PA
 67013,-1.384893,-48.42501606,ananindeua,PA
@@ -13749,7 +13749,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 68377,-3.193090814,-52.20649765,altamira,PA
 68379,9.049062718,-25.17090346,castelo dos sonhos,PA
 68380,-6.640243468,-51.97888176,sao felix do xingu,PA
-68383,-2.887964237,-52.01332507,vitÛria do xingu,PA
+68383,-2.887964237,-52.01332507,vit√≥ria do xingu,PA
 68385,-6.752056809,-51.1534559,tucuma,PA
 68388,-7.644716344,-50.35758793,bannach,PA
 68390,-6.752159459,-51.078762,ourilandia do norte,PA
@@ -13854,7 +13854,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 68680,-2.417273196,-48.15151496,tome-acu,PA
 68682,-2.416025435,-48.2406513,quatro bocas,PA
 68685,-1.994994535,-47.94570911,concordia do para,PA
-68690,-1.959903444,-48.19868284,acar·,PA
+68690,-1.959903444,-48.19868284,acar√°,PA
 68695,-2.9439098,-48.95198166,tailandia,PA
 68700,-1.192443827,-47.17718301,capanema,PA
 68701,-1.200454902,-47.17559865,capanema,PA
@@ -13901,7 +13901,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 68850,-0.664567052,-49.17397124,santa cruz do arari,PA
 68860,-0.756306471,-48.52075634,salvaterra,PA
 68870,-0.72994954,-48.51433816,soure,PA
-68890,-0.158608624,-50.39270275,afu·,PA
+68890,-0.158608624,-50.39270275,afu√°,PA
 68900,0.034892957,-51.06259069,macapa,AP
 68901,0.03354114,-51.07000546,macapa,AP
 68902,0.017590758,-51.0698477,macapa,AP
@@ -14008,7 +14008,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 69114,-2.836872511,-58.21290626,silves,AM
 69117,-2.698007042,-59.70082149,rio preto da eva,AM
 69120,-2.74544171,-58.03089477,itapiranga,AM
-69130,-2.53266037,-57.75748458,urucar·,AM
+69130,-2.53266037,-57.75748458,urucar√°,AM
 69135,-2.567293351,-57.87361522,sao sebastiao do uatuma,AM
 69140,-2.192187978,-56.71420561,nhamunda,AM
 69151,-2.629391253,-56.73860394,parintins,AM
@@ -14023,7 +14023,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 69240,-3.583105143,-59.12880882,autazes,AM
 69250,-3.820386469,-60.35981757,careiro,AM
 69255,-3.1959675,-59.82835275,careiro da varzea,AM
-69260,-5.12172727,-60.3711394,novo aripuan„,AM
+69260,-5.12172727,-60.3711394,novo aripuan√£,AM
 69265,-7.196344039,-59.88877469,apui,AM
 69280,-5.811219178,-61.29564084,manicore,AM
 69301,2.821374038,-60.67224112,boa vista,RR
@@ -14066,7 +14066,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 69450,-3.839830421,-62.06616935,codajas,AM
 69460,-4.088142598,-63.14237406,coari,AM
 69470,-3.34988817,-64.71319,tefe,AM
-69480,-5.624083159,-63.1869273,tapau·,AM
+69480,-5.624083159,-63.1869273,tapau√°,AM
 69490,-1.858199512,-65.59105927,maraa,AM
 69495,-1.880549425,-66.99896727,japura,AM
 69500,-4.876248447,-66.89488857,carauari,AM
@@ -14097,7 +14097,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 69850,-8.756932262,-67.39062726,boca do acre,AM
 69860,-7.70911418,-66.99667998,pauini,AM
 69870,-7.436250049,-70.02775373,envira,AM
-69880,-6.663313708,-69.86620951,eirunepÈ,AM
+69880,-6.663313708,-69.86620951,eirunep√©,AM
 69890,-7.0476461,-71.6922144,ipixuna,AM
 69895,-7.544770957,-72.58486096,guajara,AM
 69900,-9.968815684,-67.81115952,rio branco,AC
@@ -14151,7 +14151,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 70044,-15.79778154,-47.87468158,brasilia,DF
 70047,-15.79778154,-47.87468158,brasilia,DF
 70048,-15.79778154,-47.87468158,brasilia,DF
-70053,-15.79778154,-47.87468158,brasÌlia,DF
+70053,-15.79778154,-47.87468158,bras√≠lia,DF
 70054,-15.7982004,-47.87337064,brasilia,DF
 70055,-15.79778154,-47.87468158,brasilia,DF
 70056,-15.799446,-47.8692855,brasilia,DF
@@ -14162,7 +14162,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 70067,-15.7991895,-47.87010225,brasilia,DF
 70068,-15.798429,-47.872575,brasilia,DF
 70070,-15.7810257,-47.89486718,brasilia,DF
-70072,-15.80147572,-47.88289643,brasÌlia,DF
+70072,-15.80147572,-47.88289643,bras√≠lia,DF
 70074,-15.8016376,-47.8824756,brasilia,DF
 70077,-15.79076666,-47.88443919,brasilia,DF
 70078,-15.8016376,-47.8824756,brasilia,DF
@@ -14244,12 +14244,12 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 70391,-15.79637343,-47.84895543,brasilia,DF
 70393,-11.00321351,-68.74472282,brasilia,DF
 70402,-15.80247759,-47.87471121,brasilia,DF
-70406,-15.80789866,-47.87406381,brasÌlia,DF
+70406,-15.80789866,-47.87406381,bras√≠lia,DF
 70415,-15.823971,-47.88720623,brasilia,DF
 70422,-15.82490152,-47.89258563,brasilia,DF
 70602,-15.74803302,-47.92424952,brasilia,DF
 70610,-15.78883193,-47.90885924,brasilia,DF
-70620,-15.77603021,-47.90937287,brasÌlia,DF
+70620,-15.77603021,-47.90937287,bras√≠lia,DF
 70630,-15.77219865,-47.91965086,brasilia,DF
 70631,-15.76928126,-47.959345,brasilia,DF
 70632,-15.76229002,-47.93563842,brasilia,DF
@@ -14317,7 +14317,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 70802,-15.79433048,-47.8509924,brasilia,DF
 70803,-15.79092596,-47.8504014,brasilia,DF
 70804,-15.7939958,-47.84788714,brasilia,DF
-70830,-15.7776255,-47.87400825,brasÌlia,DF
+70830,-15.7776255,-47.87400825,bras√≠lia,DF
 70832,-15.7818735,-47.87837188,brasilia,DF
 70833,-15.7788765,-47.878541,brasilia,DF
 70834,-15.78218517,-47.875446,brasilia,DF
@@ -14326,9 +14326,9 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 70843,-15.7715145,-47.880261,brasilia,DF
 70844,-15.76841625,-47.88001156,brasilia,DF
 70845,-15.77445871,-47.87606832,brasilia,DF
-70846,-15.77189065,-47.87571257,brasÌlia,DF
+70846,-15.77189065,-47.87571257,bras√≠lia,DF
 70847,-15.767451,-47.877894,brasilia,DF
-70852,-15.763761,-47.88131288,brasÌlia,DF
+70852,-15.763761,-47.88131288,bras√≠lia,DF
 70853,-15.76273806,-47.88171031,brasilia,DF
 70854,-15.7593404,-47.8830282,brasilia,DF
 70855,-15.7645215,-47.8784729,brasilia,DF
@@ -14460,15 +14460,15 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 71960,-15.85196823,-48.03432806,brasilia,DF
 71961,-15.85444794,-48.03208224,brasilia,DF
 71963,-15.85483399,-48.03333985,brasilia,DF
-71964,-15.85946172,-48.03572679,brasÌlia,DF
+71964,-15.85946172,-48.03572679,bras√≠lia,DF
 71965,-15.85976354,-48.02794925,brasilia,DF
 71967,-15.86407422,-48.02626135,brasilia,DF
 71968,-15.86524833,-48.02500727,brasilia,DF
 71969,-15.86585201,-48.02592929,brasilia,DF
 71972,-15.8652898,-48.03217214,taguatinga,DF
-71973,-15.86076334,-48.02445202,brasÌlia,DF
+71973,-15.86076334,-48.02445202,bras√≠lia,DF
 71978,-15.86791045,-48.01729954,brasilia,DF
-71979,-15.86952967,-48.0191981,brasÌlia,DF
+71979,-15.86952967,-48.0191981,bras√≠lia,DF
 71980,-15.86901238,-48.01775426,brasilia,DF
 71981,-15.86890625,-48.01626573,brasilia,DF
 71982,-15.87196906,-48.01624651,brasilia,DF
@@ -14477,11 +14477,11 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 71988,-15.87686441,-48.01210266,brasilia,DF
 71989,-15.87679129,-48.00797273,brasilia,DF
 71990,-15.87443031,-48.0003393,brasilia,DF
-71991,-15.87503356,-47.9977644,brasÌlia,DF
+71991,-15.87503356,-47.9977644,bras√≠lia,DF
 72001,-15.79139823,-47.8569889,brasilia,DF
 72003,-15.79250345,-47.84512684,brasilia,DF
 72006,-15.79115473,-47.85672962,brasilia,DF
-72007,-15.77481596,-48.0468055,brasÌlia,DF
+72007,-15.77481596,-48.0468055,bras√≠lia,DF
 72010,-15.83194546,-48.05457211,brasilia,DF
 72015,-15.8385413,-48.05311332,brasilia,DF
 72016,-15.84008108,-48.06029519,brasilia,DF
@@ -14505,7 +14505,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 72156,-15.81947459,-48.07928579,brasilia,DF
 72160,-15.83271164,-48.08788128,brasilia,DF
 72161,-15.82196807,-48.09138987,brasilia,DF
-72162,-15.8138421,-48.09530018,brasÌlia,DF
+72162,-15.8138421,-48.09530018,bras√≠lia,DF
 72210,-15.80727026,-48.10921351,brasilia,DF
 72215,-15.82784796,-48.09744834,brasilia,DF
 72220,-15.83249162,-48.10720819,brasilia,DF
@@ -14597,7 +14597,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 72641,-15.91799388,-48.06316497,brasilia,DF
 72650,-15.92182138,-48.05288507,brasilia,DF
 72660,-15.93159343,-48.10419946,brasilia,DF
-72669,-15.79336326,-47.84922424,brasÌlia,DF
+72669,-15.79336326,-47.84922424,bras√≠lia,DF
 72705,-15.67715191,-48.19563356,brasilia,DF
 72710,-15.68739448,-48.19375782,brasilia,DF
 72715,-15.68319637,-48.19512498,brasilia,DF
@@ -14631,7 +14631,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 72830,-16.245264,-47.91406643,luziania,GO
 72831,-16.24189454,-47.90609936,luziania,GO
 72834,-16.21770191,-47.91958049,luziania,GO
-72836,-16.21001948,-47.92963401,luzi‚nia,GO
+72836,-16.21001948,-47.92963401,luzi√¢nia,GO
 72850,-16.14348184,-47.95728363,luziania,GO
 72851,-16.13384217,-47.95213088,luziania,GO
 72853,-16.23212288,-47.93353984,luziania,GO
@@ -14696,7 +14696,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 73063,-15.64465674,-47.81738628,brasilia,DF
 73070,-15.63328292,-47.84617602,brasilia,DF
 73080,-15.62857559,-47.82818183,brasilia,DF
-73083,-15.79345195,-47.8458522,brasÌlia,DF
+73083,-15.79345195,-47.8458522,bras√≠lia,DF
 73092,-15.666498,-47.8204155,brasilia,DF
 73100,-15.792112,-47.8483524,brasilia,DF
 73105,-15.65820878,-47.85752318,brasilia,DF
@@ -14716,12 +14716,12 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 73360,-15.62446898,-47.64765253,brasilia,DF
 73365,-15.74968995,-47.92724649,brasilia,DF
 73366,-15.74864923,-47.9250662,brasilia,DF
-73367,-15.746777,-47.92296799,brasÌlia,DF
+73367,-15.746777,-47.92296799,bras√≠lia,DF
 73368,-15.74972998,-47.92717447,brasilia,DF
 73370,-15.64427623,-47.64501867,brasilia,DF
 73375,-15.79233716,-47.85181155,brasilia,DF
 73380,-15.61553362,-47.67425613,brasilia,DF
-73403,-15.79291376,-47.85561995,brasÌlia,DF
+73403,-15.79291376,-47.85561995,bras√≠lia,DF
 73700,-15.16487758,-48.28505174,padre bernardo,GO
 73730,-15.05887137,-48.16209741,mimoso de goias,GO
 73740,-14.15163697,-48.07413982,colinas do sul,GO
@@ -14764,10 +14764,10 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 73975,-14.4557648,-46.43602351,buritinopolis,GO
 73980,-14.56056706,-46.17319751,damianopolis,GO
 73990,-14.8035509,-46.25499817,sitio d'abadia,GO
-74001,-16.68033979,-49.254444,goi‚nia,GO
+74001,-16.68033979,-49.254444,goi√¢nia,GO
 74003,-16.68063891,-49.25668445,goiania,GO
 74005,-16.65133468,-49.26426303,goiania,GO
-74010,-16.67490629,-49.25791843,goi‚nia,GO
+74010,-16.67490629,-49.25791843,goi√¢nia,GO
 74013,-16.67261555,-49.26001833,goiania,GO
 74015,-16.67953399,-49.25944895,goiania,GO
 74020,-16.67203787,-49.2564996,goiania,GO
@@ -14874,7 +14874,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 74473,-16.621038,-49.31860549,goiania,GO
 74474,-16.60738255,-49.31050556,goiania,GO
 74475,-16.6137296,-49.32346378,goiania,GO
-74476,-16.61032755,-49.34744431,goi‚nia,GO
+74476,-16.61032755,-49.34744431,goi√¢nia,GO
 74477,-16.58810966,-49.34818569,goiania,GO
 74480,-16.612401,-49.3430075,goiania,GO
 74481,-16.601007,-49.33320239,goiania,GO
@@ -14978,7 +14978,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 74805,-16.69270387,-49.23822004,goiania,GO
 74810,-16.70098327,-49.240583,goiania,GO
 74815,-16.71060954,-49.24181812,goiania,GO
-74817,-16.71320279,-49.24377138,goi‚nia,GO
+74817,-16.71320279,-49.24377138,goi√¢nia,GO
 74820,-16.7071005,-49.24782294,goiania,GO
 74823,-16.71556601,-49.26021568,goiania,GO
 74825,-16.71613639,-49.2538625,goiania,GO
@@ -15046,7 +15046,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 74961,-16.81085442,-49.32238001,aparecida de goiania,GO
 74962,-16.81616399,-49.34134673,aparecida de goiania,GO
 74963,-16.82113133,-49.36339871,aparecida de goiania,GO
-74965,-16.832469,-49.36596666,aparecida de goi‚nia,GO
+74965,-16.832469,-49.36596666,aparecida de goi√¢nia,GO
 74966,-16.82455606,-49.29733759,aparecida de goiania,GO
 74967,-16.81662903,-49.2895814,aparecida de goiania,GO
 74968,-16.81965076,-49.26269025,aparecida de goiania,GO
@@ -15067,7 +15067,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 74988,-16.83132301,-49.22466402,aparecida de goiania,GO
 74989,-16.84378829,-49.23727566,aparecida de goiania,GO
 74990,-16.82668723,-49.23769568,aparecida de goiania,GO
-74993,-16.81167001,-49.21879,aparecida de goi‚nia,GO
+74993,-16.81167001,-49.21879,aparecida de goi√¢nia,GO
 75020,-16.32659902,-48.95364029,anapolis,GO
 75023,-16.33368288,-48.96030666,anapolis,GO
 75024,-16.32890781,-48.95833081,anapolis,GO
@@ -15095,7 +15095,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 75083,-16.305642,-48.94720604,anapolis,GO
 75084,-16.31075134,-48.93864335,anapolis,GO
 75085,-16.28524228,-48.92104063,anapolis,GO
-75090,-16.30254811,-48.89296913,an·polis,GO
+75090,-16.30254811,-48.89296913,an√°polis,GO
 75091,-16.31482825,-48.9031827,anapolis,GO
 75093,-16.32074195,-48.91711275,anapolis,GO
 75094,-16.32079144,-48.93110111,anapolis,GO
@@ -15140,7 +15140,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 75190,-16.62177782,-48.74287419,leopoldo de bulhoes,GO
 75195,-16.61658066,-48.95859663,bonfinopolis,GO
 75200,-17.30402361,-48.28267775,pires do rio,GO
-75202,-18.19924451,-47.94180082,catal„o,GO
+75202,-18.19924451,-47.94180082,catal√£o,GO
 75210,-17.32517452,-48.4254381,palmelo,GO
 75220,-17.3157714,-48.48354959,santa cruz de goias,GO
 75230,-17.19603737,-48.70381616,cristianopolis,GO
@@ -15351,7 +15351,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 76230,-16.4322304,-51.81838682,piranhas,GO
 76235,-16.38606113,-51.55955377,arenopolis,GO
 76240,-15.90484441,-52.24328805,aragarcas,GO
-76244,-15.8972445,-52.23386549,aragarÁas,GO
+76244,-15.8972445,-52.23386549,aragar√ßas,GO
 76245,-16.20184958,-52.17402409,bom jardim de goias,GO
 76250,-16.20037551,-52.5441477,baliza,GO
 76255,-16.00556989,-51.39848937,montes claros de goias,GO
@@ -15382,7 +15382,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 76374,-14.73312801,-49.70387531,guarinos,GO
 76375,-14.7224754,-49.46867448,hidrolina,GO
 76380,-15.31646169,-49.11843958,goianesia,GO
-76381,-15.30472448,-49.11631,goianÈsia,GO
+76381,-15.30472448,-49.11631,goian√©sia,GO
 76382,-15.33238616,-49.11563229,goianesia,GO
 76383,-15.33517723,-49.1047989,goianesia,GO
 76385,-15.29184,-49.122645,goianesia,GO
@@ -15409,7 +15409,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 76510,-14.54232154,-49.9684759,crixas,GO
 76515,-14.2747474,-49.65667756,campos verdes,GO
 76520,-14.09571198,-50.33600385,nova crixas,GO
-76523,-14.0991099,-50.32988648,nova crix·s,GO
+76523,-14.0991099,-50.32988648,nova crix√°s,GO
 76525,-14.28424065,-49.91822259,uirapuru,GO
 76530,-13.77271279,-50.2777081,mundo novo,GO
 76540,-13.73007266,-49.27631621,mutunopolis,GO
@@ -15489,9 +15489,9 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 76907,-10.86741491,-61.94843768,ji-parana,RO
 76908,-10.88548587,-61.92459336,ji-parana,RO
 76909,-10.87947359,-61.90231615,ji-parana,RO
-76912,-10.90132607,-61.8912635,ji-paran·,RO
+76912,-10.90132607,-61.8912635,ji-paran√°,RO
 76913,-10.89775471,-61.91473122,ji-parana,RO
-76914,-10.89538785,-61.93487573,ji-paran·,RO
+76914,-10.89538785,-61.93487573,ji-paran√°,RO
 76916,-11.17074906,-61.9050454,presidente medici,RO
 76919,-11.19816,-61.5199375,ministro andreazza,RO
 76920,-10.71929299,-62.25714126,ouro preto do oeste,RO
@@ -15643,7 +15643,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 77680,-9.270713558,-49.95787834,caseara,TO
 77685,-9.26021446,-49.06492498,dois irmaos do tocantins,TO
 77690,-8.808497931,-49.55598788,araguacema,TO
-77693,-9.622442657,-49.1497203,abreul‚ndia,TO
+77693,-9.622442657,-49.1497203,abreul√¢ndia,TO
 77695,-8.774210204,-48.93520451,goianorte,TO
 77700,-8.841148349,-48.51068724,guarai,TO
 77704,-8.97149211,-48.18839115,tupirama,TO
@@ -15657,7 +15657,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 77725,-8.734280372,-48.75273527,colmeia,TO
 77730,-8.596002743,-48.93519183,pequizeiro,TO
 77733,-8.73425595,-47.24227205,recursolandia,TO
-77735,-8.390726858,-48.48629916,brasil‚ndia do tocantins,TO
+77735,-8.390726858,-48.48629916,brasil√¢ndia do tocantins,TO
 77740,-8.571426513,-48.6893961,itapora do tocantins,TO
 77745,-8.53108421,-48.50722113,presidente kennedy,TO
 77750,-8.360302034,-49.17747067,couto de magalhaes,TO
@@ -15735,7 +15735,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 78032,-15.59759046,-56.10649005,cuiaba,MT
 78035,-15.59498806,-56.13152326,cuiaba,MT
 78040,-15.58527337,-56.11641839,cuiaba,MT
-78042,-15.5920119,-56.1186003,cuiab·,MT
+78042,-15.5920119,-56.1186003,cuiab√°,MT
 78043,-15.58748547,-56.1073425,cuiaba,MT
 78045,-15.59234017,-56.1045038,cuiaba,MT
 78048,-15.57537326,-56.08520581,cuiaba,MT
@@ -15753,7 +15753,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 78065,-15.61840427,-56.08016103,cuiaba,MT
 78068,-15.61319757,-56.05197739,cuiaba,MT
 78070,-15.62186806,-56.07224614,cuiaba,MT
-78074,-15.55981786,-56.03302684,cuiab·,MT
+78074,-15.55981786,-56.03302684,cuiab√°,MT
 78075,-15.61051621,-56.03170861,cuiaba,MT
 78076,-15.6257505,-56.019535,cuiaba,MT
 78077,-15.60562545,-56.0450648,cuiaba,MT
@@ -15903,7 +15903,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 78628,-14.80078431,-53.61038728,santo antonio do leste,MT
 78630,-14.53882241,-52.79620928,campinapolis,MT
 78635,-14.05628317,-52.161815,agua boa,MT
-78638,-13.98945773,-51.79670871,nova nazarÈ,MT
+78638,-13.98945773,-51.79670871,nova nazar√©,MT
 78640,-13.55445662,-52.27117274,canarana,MT
 78643,-12.59261151,-52.20322988,querencia,MT
 78645,-10.01386165,-51.11448866,vila rica,MT
@@ -16061,7 +16061,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 79118,-20.43159986,-54.62328432,campo grande,MS
 79125,-20.98079254,-54.50364919,anhandui,MS
 79130,-21.80023658,-54.54343198,rio brilhante,MS
-79134,-21.65408037,-54.43087261,prudÍncio thomaz,MS
+79134,-21.65408037,-54.43087261,prud√™ncio thomaz,MS
 79140,-21.45727633,-54.37606147,nova alvorada do sul,MS
 79150,-21.62484821,-55.16264906,maracaju,MS
 79152,-21.72651191,-55.49931101,vista alegre,MS
@@ -16198,7 +16198,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 79904,-22.53317742,-55.72591172,ponta pora,MS
 79905,-22.55173453,-55.71016806,ponta pora,MS
 79906,-22.56392421,-55.69020754,ponta pora,MS
-79907,-22.57722805,-55.67917528,ponta por„,MS
+79907,-22.57722805,-55.67917528,ponta por√£,MS
 79909,-22.62025243,-55.62833176,sanga puita,MS
 79910,-22.1900366,-55.94896487,antonio joao,MS
 79920,-22.55530573,-55.15128165,laguna carapa,MS
@@ -16731,7 +16731,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 85565,-25.6995756,-52.72086043,sulina,PR
 85568,-25.69275025,-52.61880997,saudade do iguacu,PR
 85570,-25.82672189,-52.7272466,sao joao,PR
-85571,-22.72656149,-43.44919547,dois irm„os,PR
+85571,-22.72656149,-43.44919547,dois irm√£os,PR
 85575,-25.70779252,-52.9182215,sao jorge d'oeste,PR
 85579,-25.6082839,-53.00590849,sao jorge doeste,PR
 85580,-25.96394445,-52.81573026,itapejara d'oeste,PR
@@ -16861,7 +16861,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 85945,-24.58626,-53.51275575,tupassi,PR
 85948,-24.62624865,-54.22535674,pato bragado,PR
 85950,-24.28584898,-53.8368166,palotina,PR
-85952,-24.19128917,-53.91280227,s„o camilo,PR
+85952,-24.19128917,-53.91280227,s√£o camilo,PR
 85955,-24.41828495,-53.83050106,maripa,PR
 85957,-24.47957153,-53.79608646,maripa,PR
 85960,-24.55728631,-54.05625021,marechal candido rondon,PR
@@ -16999,7 +16999,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 86635,-22.7552142,-51.65811348,lupionopolis,PR
 86640,-22.7898994,-51.71609299,cafeara,PR
 86650,-22.69750927,-51.79019662,santo inacio,PR
-86660,-22.63911318,-51.90394596,santa inÍs,PR
+86660,-22.63911318,-51.90394596,santa in√™s,PR
 86670,-22.61784867,-51.96887155,itaguaje,PR
 86680,-22.91388324,-51.79669522,nossa senhora das gracas,PR
 86690,-22.83820854,-51.97193341,colorado,PR
@@ -17170,7 +17170,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 87360,-24.18610437,-53.02536808,goioere,PR
 87365,-24.28041532,-53.07451607,quarto centenario,PR
 87370,-24.05043067,-53.0100708,moreira sales,PR
-87375,-24.11038259,-52.88769155,paran· d'oeste,PR
+87375,-24.11038259,-52.88769155,paran√° d'oeste,PR
 87380,-24.14318009,-52.78043368,janiopolis,PR
 87390,-24.24327633,-52.78698835,boa esperanca,PR
 87395,-24.30917933,-52.95627812,rancho alegre d'oeste,PR
@@ -17332,7 +17332,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 88150,-27.69539425,-48.82489826,aguas mornas,SC
 88160,-27.50446931,-48.64264292,biguacu,SC
 88161,-27.51500207,-48.65426534,biguacu,SC
-88162,-27.52651319,-48.64291881,biguaÁu,SC
+88162,-27.52651319,-48.64291881,bigua√ßu,SC
 88164,-27.49412227,-48.66215434,biguacu,SC
 88165,-27.47345807,-48.66311673,biguacu,SC
 88168,-27.46745786,-48.63912785,biguacu,SC
@@ -17693,7 +17693,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 89264,-26.54386828,-49.15230164,jaragua do sul,SC
 89265,-26.4589855,-49.16815908,jaragua do sul,SC
 89266,-26.43316755,-49.15138294,jaragua do sul,SC
-89267,-26.36807796,-49.12475478,jaragu· do sul,SC
+89267,-26.36807796,-49.12475478,jaragu√° do sul,SC
 89270,-26.47354263,-48.98950948,guaramirim,SC
 89275,-26.40899123,-49.07140853,schroeder,SC
 89278,-26.43447879,-49.24408639,corupa,SC
@@ -18137,11 +18137,11 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 93546,-29.699937,-51.10038362,novo hamburgo,RS
 93548,-29.69066508,-51.11534462,novo hamburgo,RS
 93600,-29.65180834,-51.17110609,estancia velha,RS
-93601,-29.64091027,-51.170312,est‚ncia velha,RS
+93601,-29.64091027,-51.170312,est√¢ncia velha,RS
 93604,-29.6500777,-51.22078998,estancia velha,RS
 93607,-11.27470443,-37.4424357,estancia velha,RS
 93608,-29.66459716,-51.14873694,estancia velha,RS
-93609,-29.6646009,-51.15657339,est‚ncia velha,RS
+93609,-29.6646009,-51.15657339,est√¢ncia velha,RS
 93610,-29.6580523,-51.16885412,estancia velha,RS
 93611,-29.66890889,-51.17497869,estancia velha,RS
 93612,-29.66773685,-51.19289804,estancia velha,RS
@@ -18339,7 +18339,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 95260,-28.98697117,-51.40691268,nova roma do sul,RS
 95270,-29.03074383,-51.18237104,flores da cunha,RS
 95272,-29.05684867,-51.26110885,otavio rocha,RS
-95275,-29.02773445,-51.30906677,nova p·dua,RS
+95275,-29.02773445,-51.30906677,nova p√°dua,RS
 95280,-28.74528973,-50.05963971,sao jose dos ausentes,RS
 95290,-28.66920587,-50.43314066,bom jesus,RS
 95300,-28.21096685,-51.52461936,lagoa vermelha,RS
@@ -18522,7 +18522,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 96095,-31.73532128,-52.2152226,pelotas,RS
 96100,-33.52580018,-53.36455303,santa vitoria do palmar,RS
 96115,-31.63880715,-52.41553424,monte bonito,RS
-96130,-31.69806068,-52.15608347,colÙnia z-3,RS
+96130,-31.69806068,-52.15608347,col√¥nia z-3,RS
 96145,-31.51223506,-52.43996166,quilombo,RS
 96148,-31.41502908,-52.17193335,turucu,RS
 96150,-31.59257613,-52.62554249,morro redondo,RS
@@ -18678,8 +18678,8 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 97250,-29.47135657,-53.47154816,nova palma,RS
 97280,-29.62391068,-53.3546477,dona francisca,RS
 97300,-30.33782999,-54.32236153,sao gabriel,RS
-97306,-30.3548358,-54.33416553,s„o gabriel,RS
-97310,-30.3342248,-54.33511778,s„o gabriel,RS
+97306,-30.3548358,-54.33416553,s√£o gabriel,RS
+97310,-30.3342248,-54.33511778,s√£o gabriel,RS
 97313,-30.32777238,-54.32614781,sao gabriel,RS
 97314,-30.32092286,-54.31287879,sao gabriel,RS
 97335,-30.385749,-54.076652,santa margarida do sul,RS
@@ -18913,7 +18913,7 @@ geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geo
 99250,-28.71230195,-51.93337162,serafina correa,RS
 99255,-28.65383758,-52.07641933,montauri,RS
 99260,-28.56585399,-51.97583017,casca,RS
-99265,-28.497684,-52.01508634,santo antÙnio do palma,RS
+99265,-28.497684,-52.01508634,santo ant√¥nio do palma,RS
 99270,-28.53190509,-51.88939201,sao domingos do sul,RS
 99290,-28.47588093,-51.84389265,vanini,RS
 99300,-28.82942525,-52.51027521,soledade,RS
