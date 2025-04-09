@@ -56,7 +56,7 @@ Build a complete ETL pipeline on a local environment using Python and Microsoft 
 
 ---
 
-## 🛠️ How to Run
+## How to Run
 
 1. Clone this repository.
 2. Install required Python libraries:
