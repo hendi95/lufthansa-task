@@ -1,8 +1,4 @@
-# ETL Pipelines and Cloud Solution Projects
-
-This repository contains two projects showcasing my skills in building end-to-end ETL pipelines and implementing cloud-based data solutions:
-
-## 📁 Projects
+# ETL Pipelines Project
 
 ### 1. Cloud Solution – Lufthansa Task
 
